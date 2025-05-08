@@ -12,8 +12,6 @@ This project explores a **retail sales dataset** using SQL in PostgreSQL to deri
 - Use **SQL aggregation, window functions, CTEs, and case statements** to solve real business questions.
 - Analyze **customer behavior, product performance, and time-based trends**.
 - Practice **SQL storytelling** suitable for dashboards and client reporting.
-- Build a **reusable project** you can publish on GitHub or showcase during interviews.
-
 ---
 
 ## 📊 Dataset Summary
