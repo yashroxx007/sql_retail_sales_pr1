@@ -4,12 +4,6 @@
 ## 📌 Project Overview
 
 This project explores a **retail sales dataset** using SQL in PostgreSQL to derive valuable business insights. It mimics real-world retail scenarios, answering questions like *Which products sell best? Who are the top customers? What times are busiest?* The dataset includes customer demographics, purchase details, and sales metrics across multiple product categories.
-
-Ideal for:
-- Aspiring Data Analysts or Data Engineers
-- SQL learners looking to practice real-world queries
-- Portfolio building with clean, insightful SQL scripts
-
 ---
 
 ## 🎯 Objectives
